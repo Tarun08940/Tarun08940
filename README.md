@@ -1,28 +1,28 @@
-# Hi there, I’m Tarun 👋  
+# 👋 Hey, I’m Tarun  
 
-**Software Engineer | Full-Stack Developer**  
+**💻 Software Engineer | 🌐 Full-Stack Developer | 🚀 Problem Solver**  
 
-I love building scalable web applications, experimenting with AI-driven systems, and exploring full-stack development from backend APIs to frontend design. 🚀  
-
----
-
-## 🔭 Current Focus
-- Developing backend services with **Django**, **FastAPI**, and **Flask**  
-- Building intelligent systems like **Surveillance with Emotion Recognition**  
-- Exploring OCR & automation using **Tesseract**  
-- Enhancing skills in **scalable APIs** and **modern full-stack web apps**  
+I love building modern web apps, working with AI-driven systems, and collaborating on innovative projects. Passionate about **Django, FastAPI, and scalable APIs**, I’m always exploring new ways to make tech impactful.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🔭 What I’m Working On
+- 🚀 Building scalable backends with **Django**, **FastAPI**, and **Flask**  
+- 🤝 **Tesseract** → A collaboration platform for developers to share ideas, learn, and grow together  
+- 🎥 **Surveillance with Smart Emotion Recognition** → AI-powered system that detects human emotions in real time  
+- 🛠 Improving my skills in **modern full-stack development & cloud deployments**  
 
-**Languages:**  
+---
+
+## ⚡ Tech Stack
+
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-**Frameworks & Tools:**  
+**Frameworks & Tools**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
@@ -30,24 +30,30 @@ I love building scalable web applications, experimenting with AI-driven systems,
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Highlighted Projects  
 
-| Project | Description |
-|---------|-------------|
-| **Tesseract OCR** | Implemented advanced OCR for text recognition and automation tasks. |
-| **Surveillance with Smart Emotion Recognition** | AI-powered surveillance system that detects and interprets human emotions in real time. |
+🌟 **[Tesseract Collaboration Platform](#)**  
+*A developer collaboration platform to share knowledge, projects, and resources.*  
 
-*(More coming soon...)*  
-
----
-
-## 📬 Reach Me
-- 📧 Email: **taruht08@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/tarun-ht-7a4278343](https://www.linkedin.com/in/tarun-ht-7a4278343)  
+🎥 **Surveillance with Emotion Recognition**  
+*An AI-powered surveillance system that detects and interprets emotions in real time.*  
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect With Me  
 
-![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarun08940&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun08940&layout=compact&theme=radical)  
+📧 **Email:** [taruht08@gmail.com](mailto:taruht08@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/tarun-ht-7a4278343](https://www.linkedin.com/in/tarun-ht-7a4278343)  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tarun08940&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun08940&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
+
+---
+
+✨ “Always building, always learning.”  
